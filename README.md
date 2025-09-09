@@ -11,10 +11,8 @@ Mensaje actualizado unicamente desde GitHub
 
 ### Helo World
 
-<<<<<<< HEAD
 ### Estos cambios son nuevos -> Desde GitHub
 Cambios para un push por primera vez ✌️
-=======
+
 ### Estos cambios son nuevos -> Desde VSCode
-Cambios para un push por primera vez ✌️
->>>>>>> a0dee38 (README.md desde VS)
+Cambios para un push por segunda vez ✌️
