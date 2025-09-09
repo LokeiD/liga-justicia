@@ -11,4 +11,5 @@ Mensaje actualizado unicamente desde GitHub
 
 ### Helo World
 
-### Estos cambios son nueves -> Desde VS
+### Estos cambios son nuevos -> Desde VS
+Cambios para un push por primera vez ✌️
